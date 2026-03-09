@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TruongLeBaoTran
 - 👀 I’m interested in C#, PHP, Python, Java, C/C++
-- 🌱 I’m currently learning at HUIT
+  
 - Contact me: truonglebaotran12a192021@gmail.com
 
 <!---
